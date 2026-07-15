@@ -4,7 +4,7 @@ layout: homelay
 permalink: /
 ---
 
-# Welcome to the Energy Nanomaterials Lab. (Prof. JW Jung)
+# Welcome to the ENL @ KHU. (Prof. JW Jung)
 
 **News: Our group newly joined Kyung Hee University!** Join us!
 
